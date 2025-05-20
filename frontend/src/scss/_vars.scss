@@ -1,0 +1,18 @@
+:root {
+  --font-family: 'Ubuntu', sans-serif;
+  --second-family: 'WorkSans', sans-serif;
+  --third-family: 'Roboto', sans-serif;
+  --content-width: 1535px;
+  --container-offset: 50px;
+  --container-width: calc(var(--content-width) + (var(--container-offset) * 2));
+  --grid-gap: 50px;
+
+  --light-color: #fff;
+  --black-color: #000;
+  --gray-color: #f3f4f6;
+  --midnight-express: #182233;
+  --blue-color: #116acc;
+  --active-link: #a0c3ff;
+  --small-radius: 7px;
+  --mid-radius: 9px;
+}

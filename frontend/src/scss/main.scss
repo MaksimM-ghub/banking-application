@@ -1,0 +1,15 @@
+// базовые подключения
+// @use "~bootstrap/scss/bootstrap";
+@use 'vars';
+@use 'fonts';
+@use 'global';
+
+// подключения компонентов страницы
+@use './components/header';
+@use './components/entryForm';
+@use './components/map';
+@use './components/accounts';
+@use './components/skeleton';
+@use './components/account-info';
+@use './components/currency';
+@use './components/history';
